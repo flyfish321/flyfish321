@@ -8,7 +8,7 @@
   
 - 🏃 我的运动记录：https://flyfish321.github.io/workouts_map/
   
-- 🏠 我的博客：https://flyfish321.github.io/gitblog/
+- 🏠 我的博客：https://www.yhyblog.com/
 
 
 
